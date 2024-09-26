@@ -1,4 +1,4 @@
-
+[![Github Actions Matrix Build for Multiple Python Versions - Su Zhang](https://github.com/nogibjj/Su_Zhang_Github_Actions_Matrix_Project/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Su_Zhang_Github_Actions_Matrix_Project/actions/workflows/cicd.yml)
 
 # Su Zhang Github Actions Matrix Project - IDS706 Week 4 Assignment
 This project is built upon my pandas project that analyzes patient's healthcare records. The main purpose of this project is to test different python versions and environment in Github Actions.
